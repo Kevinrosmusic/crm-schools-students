@@ -1,4 +1,4 @@
-# ⭐ ToDoListAngular ⭐
+# CRM Schools and Students
 
 This project was generated with [Laravel](https://github.com/laravel/laravel) version 17.
 
